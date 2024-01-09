@@ -17,3 +17,5 @@ The method of communication between a client and a server must be uniform.
 
 #### 6 - Code on demand: 
 Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
+
+#### Storing our tasks lists in a memory structure in place of a database
